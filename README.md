@@ -7,7 +7,7 @@ Neural Style Transfer is a computational technique in that uses deep learning to
 *Must have Python installed in the system  
 *Must have pip to manage the packages  
 
-**Necassary Libraries**  
+**NECESSARY LIBRARIES**  
 *Streamlit  
 *Torch  
 *Torchvision  
