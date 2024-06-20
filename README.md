@@ -4,8 +4,8 @@
 Neural Style Transfer is a computational technique in that uses deep learning to merge the content of one image with the style of some another image. It uses a pre-trained model, called VGG19, to extract content features and style features. It optimizes the required target image iteratively with content image's features and match the statistical properties(such as correlations between different feaure maps) derived from style image. it helps generate visually appealing images that blend the asrtisitc style of one image with that of the another
 
 **INSTALLATION INSTRUCTIONS**
-*Must have Python installed in the system
-*Must have pip to manage the packages
+-Must have Python installed in the system
+-Must have pip to manage the packages
 
 **Necassary Libraries**
 *Streamlit
